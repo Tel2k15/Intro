@@ -6,8 +6,12 @@ Las tareas de esta seccion tienen por objetivo entender la teoria sobre lo que s
 
 ## Tareas Git
 
-Investigar sobre repositorio
-Instalar git
-Clonar el repositorio
+- Investigar sobre repositorio
+- Instalar git
+- Clonar el repositorio
 
 https://github.com/Tel2k15/Intro.git
+
+## Tareas MarkDown
+
+- Investigar sobre MarkDown
