@@ -11,7 +11,7 @@
 
 #### Principal
 
-Crear un repo con un perfil personal.
+Crear un repo con un perfil personal en el archivo README.md
 
 #### Secundarios
 
