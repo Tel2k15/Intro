@@ -13,6 +13,6 @@ Crear un repo con info personal
 
 ### Ejemplos
 
-[Membaers][Members]
+[Members][Members]
 
-[Membars]: https://github.com/Tel2k15/Members
+[Members]: https://github.com/Tel2k15/Members
