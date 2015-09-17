@@ -9,7 +9,18 @@
 
 ### Objetivo
 
-Crear un repo con info personal
+#### Principal
+
+Crear un repo con un perfil personal.
+
+#### Secundarios
+
+- [crear una cuenta en github](https://github.com/join)
+- [crear un repo en git](https://github.com/new)
+
+#### Bonus
+
+- Documentar cada Objetivo realizado
 
 ### Ejemplos
 
