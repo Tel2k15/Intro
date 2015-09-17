@@ -21,6 +21,7 @@ Crear un repo con un perfil personal en el archivo README.md
 #### Bonus
 
 - Documentar cada Objetivo realizado
+- Solicitar a [syaksic](https://github.com/syaksic) incorporar el repo a [Members][Members]
 
 ### Ejemplos
 
