@@ -4,8 +4,8 @@
 
 ### Metas
 
-- Usar MarkDown
-- Usar Git
+- Usar [MarkDown](http://daringfireball.net/projects/markdown/)
+- Usar [GitHub](https://github.com/)
 
 ### Objetivo
 
